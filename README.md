@@ -1,6 +1,7 @@
 # Flask Citations Fetcher
 
 This project is a simple Flask application that fetches data from an API and displays the citations in a table format on a web page.
+![Application Screenshot](screenshot.png)
 
 ## Prerequisites
 
@@ -39,7 +40,6 @@ This project is a simple Flask application that fetches data from an API and dis
 Start the Flask application:
 
 ```sh
-Copy code
 python app.py
 ```
 # Open a web browser and navigate to:
